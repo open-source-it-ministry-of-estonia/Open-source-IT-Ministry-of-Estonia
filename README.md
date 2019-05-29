@@ -1,1 +1,12 @@
-# Open-source-IT-Ministry-of-Estonia
+# Teen ettepaneku maailma esimeseks "Open-Source IT ministeeriumi" loomiseks. 
+
+* Kui ametlik ministeerium ei saa hakkama esindusfunktsiooni ega ka strateegia arendamisega, siis tuleb pakkuda alternatiivi. Nendes kahes saab avatud ministeerium pakkuda väga head alternatiivi. Spetsialistid valivad variministri, kes võiks olla vääriline mantlipärija Taavi Kotka'le, ning Toomas Hendrik Ilves'ele. Esindamine ja strateegia ei ole probleem. Ainukeseks probleemiks on riigi rahakott, kuid üks samm korraga.  
+* Miks? IT, küberturvalisus, andmed ja tehnoloogia seonduvad tulevikus sedavõrd palju meie kõigi isikuvabaduste ja võimalustega - kogu Eesti arenguga, seetõttu tuleb seda valdkonda kaitsta võimalike väliste ning ka siseste rünnakute eest. Sisene rünnak hetkel ilmselgelt toimub - vahet ei ole, kas pahatahtlikkusest või rumalusest. 
+* Kui populistid võimule toonud valitsus hakkab aastal 2019 maailma edumeelseimas digiriigis ise leiutama Windows 3.1-te, siis tuleb sekkuda ning pakkuda vabavaralist alternatiivi. Me saame teha ministeeriumist oma haru (branch), teeme sinna parema protsessi ning anname selle kõigile tasuta – kaasa arvatud Eesti riigile. Lennart Meri sõnul on "sitt meie tuleviku väetis" - seega enda teadmata võib EKRE anda panuse selliseks riigi juhtimiseks, mis on "populist-proof". 
+* Ükski poliitiline erakond ega ka koalitsioon ei tohiks tulevikus IT taristut täielikult kontrollida. 
+* Kui IT-spetsialistid ei soovi ennast siduda mõne konkreetse poliitilise jõu või koalitsiooniga, siis avatud IT ministeeriumis on võimalus neil siiski panustada riigi ja digitaristu hüvanguks. 
+* Riigi digitaristu peab olema valdavas osas olema vabavaraline ning selle baaskomponendid peaksid olema tasuta kasutada kõigile meie EL ja Nato liitlastele. Eesti ärimudel? Me saame pakkuda arendus- ja hooldusteenuseid nendele klientidele, sest me oleme selles valdkonnas hetkel veel kõige tugevamad. 
+* Eesti IT-digitaristu võiks olla tasuta kasutatav autentimisvahend Mastercardi / Visa ja teistele juhtivatele finantsasutustele, et teha üleilmne usaldusväärseim ning turvalisim autentimisvahend. Anname selle tasuta nii Microsoft’ile, Apple’ile kui Google’ile – ärge hakake seda ise nullist kirjutama ning üksteisega võitlema – võtke meie baassüsteem ning aita meil seda läbipaistvalt edasi arendada. 
+* Midagi on väga valesti, kui valikuid tuleb langetada hea ja halva vahel, mitte hea või veelgi parema vahel. 
+
+Kes liitub? https://github.com/open-source-it-ministry-of-estonia/Open-source-IT-Ministry-of-Estonia/
